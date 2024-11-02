@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am an Associate Software Engineer at Central Finance, specializing in full-stack development. Currently, I am spearheading the creation of a pivotal revenue-generating Vehicle Hiring System from scratch. My expertise includes frontend development using Angular to craft dynamic user interfaces and backend implementation with Java Spring Boot to ensure robust server-side logic. I utilize AWS CodeCommit for efficient version control and collaboration, and Oracle serves as our database, ensuring data integrity and effective management. <br><br>I hold a BSc (Hons) in Information Technology from SLIIT, with a focus on Information Systems Engineering.
+I am a passionate full-stack developer with a BSc (Hons) in Information Technology from SLIIT, specializing in Information Systems Engineering. With expertise in Java, JavaScript, TypeScript, and various database technologies like MySQL, Oracle SQL, and MongoDB, I excel in building robust applications. I have a solid understanding of both frontend and backend development, utilizing frameworks such as Angular and Spring Boot, along with REST APIs and microservices architecture.
+
+My skill set includes experience with cloud platforms like AWS and Azure, version control using Git, and containerization with Docker. I am proficient in UI/UX design principles, having worked with Figma, and I apply software design patterns and object-oriented programming principles to create efficient and maintainable code. I thrive on problem-solving and continuously seek to improve my skills and contribute to innovative projects.
 
 
 ## 🌐 Socials:
